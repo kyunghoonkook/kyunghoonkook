@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=slice&text=KyungHoonKook&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&text=KyungHoonKook&fontAlign=60&fontSize=50&fontColor=454545&descAlign=60&descAlignY=50&color=gradient&customColorList=10,1,2,50,0&animation=fadeIn)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
