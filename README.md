@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=KyungHoonKook&fontAlign=60&fontSize=50&fontColor=454545&descAlign=60&descAlignY=50&color=gradient&customColorList=10,1,2,50,0&animation=fadeIn)
 
-## 🐈 Hi, there! I’m @KyunghoonKook
+## 🐈 Hi, there! I’m @Kyunghoon Kook
 - 🌱 I'm a junior front-end developer.
 
 
