@@ -6,7 +6,6 @@
 
 I'm **Kyunghoon Kook**, a passionate junior front-end developer on a journey to create beautiful, responsive, and intuitive user experiences.
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ### 🚀 About Me
 
@@ -58,10 +57,10 @@ I'm **Kyunghoon Kook**, a passionate junior front-end developer on a journey to 
   <a href="https://github.com/kyunghoonkook" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:example@email.com" target="_blank">
+  <a href="rnrrudgg68@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/kyunghoonkook" target="_blank">
+  <a href="https://linkedin.com/in/kyunghoonkook](https://www.linkedin.com/in/%EA%B2%BD%ED%9B%88-%EA%B5%AD-5823b025b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
