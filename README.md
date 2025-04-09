@@ -105,9 +105,7 @@ const aboutKyunghoon = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kyunghoonkook&style=flat-square&color=3BACFC" alt="Profile views"/>
   
-  ### 👾 Thanks for visiting my profile! 🚀
-  
-  ![Snake animation](https://github.com/kyunghoonkook/kyunghoonkook/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,30&height=100&section=footer)
